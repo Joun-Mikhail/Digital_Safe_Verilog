@@ -10,6 +10,6 @@ This project implements a digital safe using Verilog on FPGA.
 - LED indication
 
 ## Author
--John Heshmat
--peterShehata 
--Maxime
+- John Heshmat
+- Peter Shehata 
+- Maxime Lecomte
