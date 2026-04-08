@@ -33,7 +33,7 @@ module debounce (
     // Constants (internal)
     //------------------------------------------------------------
     localparam C_SHIFT_LEN = 4;
-    localparam C_MAX       = 2;  // Sampling period
+    localparam C_MAX       = 200_000;  // Sampling period
                                  // 2 for simulation
                                  // 200_000 (2 ms) for implementation !!!
 
