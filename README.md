@@ -25,6 +25,7 @@ Five board built-in push button to input the password, each button represen a bi
 - Maxime Lecomte [Input conversion block]
 
 
-<img width="691" height="201" alt="digitalSafe_block" src="https://github.com/user-attachments/assets/2f5fab00-4f05-4658-93e1-c79d34095a34" />
+<img width="1920" height="1080" alt="digital_safe_blockDiagram" src="https://github.com/user-attachments/assets/e0225075-5584-473a-a97b-283035839761" />
+
 
 
