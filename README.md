@@ -26,8 +26,7 @@ Four switch to input a number up to 9, one relock/reset button, one enter button
 - Maxime Lecomte [Input conversion block]
 
 
-<img width="1920" height="1080" alt="maxlec_digital_safe_diagram_block" src="https://github.com/user-attachments/assets/749b914e-2158-4d42-b0e4-715eb6b1e2fc" />
-
+<img width="1920" height="1080" alt="block_diagram_top_level" src="https://github.com/user-attachments/assets/0f9dd319-8498-430f-a99b-dabfab3c8640" />
 
 digital_safe_top_tb simulation
 
