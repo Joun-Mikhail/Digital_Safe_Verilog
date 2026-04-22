@@ -35,6 +35,8 @@ Four switch to input a number up to 9, one relock/reset button, one enter button
 
 ### safe_core_tb simulation
 
+[safe_core_tb](https://github.com/Joun-Mikhail/Digital_Safe_Verilog/blob/827c245190524da08928a166bf61e262b84eb28c/safe_password%202/safe_password%202.srcs/sim_1/new/safe_core_tb.v)
+
 <img width="1079" height="563" alt="safe_core_tb" src="https://github.com/user-attachments/assets/ff1b91ae-5e73-4185-8ab5-57503a6aa0ff" />
 
 ### display_4digit_tb simulation
