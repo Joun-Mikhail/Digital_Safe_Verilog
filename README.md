@@ -29,7 +29,7 @@ Four switch to input a number up to 9, one relock/reset button, one enter button
 <img width="1920" height="1080" alt="block_diagram_top_level" src="https://github.com/user-attachments/assets/0f9dd319-8498-430f-a99b-dabfab3c8640" />
 
 ### digital_safe_top_tb simulation
-[digital_safe_top_tb.v](https://github.com/Joun-Mikhail/Digital_Safe_Verilog/blob/827c245190524da08928a166bf61e262b84eb28c/safe_password%202/safe_password%202.srcs/sim_1/new/safe_top_tb.v)
+[digital_safe_top_tb.v](https://github.com/Joun-Mikhail/Digital_Safe_Verilog/blob/827c245190524da08928a166bf61e262b84eb28c/safe_password%202/safe_password%202.srcs/sim_1/new/digital_safe_top_tb.v)
 
 
 <img width="1078" height="547" alt="digital_safe_top_tb" src="https://github.com/user-attachments/assets/5d25bebe-527d-469d-8fa1-010dc4757d3c" />
