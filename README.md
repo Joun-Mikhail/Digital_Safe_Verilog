@@ -1,3 +1,5 @@
+<img width="1175" height="871" alt="utilization_2" src="https://github.com/user-attachments/assets/98a82cc7-5b26-4329-8c1d-569e693935ab" />
+<img width="1276" height="872" alt="utilization_1" src="https://github.com/user-attachments/assets/d96e27ec-a73d-400d-9d02-f7e7d688d0e6" />
 # Digital Safe (Verilog FPGA Project)
 
 ## Description
