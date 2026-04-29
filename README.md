@@ -26,7 +26,7 @@ Four switch to input a number up to 9, one relock/reset button, one enter button
 - Maxime Lecomte [Input conversion block]
 
 ## Block diagram
-<img width="1920" height="1080" alt="block_diagram_top_level" src="https://github.com/user-attachments/assets/0f9dd319-8498-430f-a99b-dabfab3c8640" />
+<img width="1920" height="1080" alt="Block_diagram_update" src="https://github.com/user-attachments/assets/8e2cee41-afb0-408e-b775-97bd4ad1df53" />
 
 ### digital_safe_top_tb simulation
 [digital_safe_top_tb.v](https://github.com/Joun-Mikhail/Digital_Safe_Verilog/blob/76d02d4a5872c8516e33f84956432781cfafeae6/Safe_password_week3/Safe_password_week3.srcs/sim_1/digital_safe_top_tb.v) 
