@@ -1,5 +1,4 @@
-<img width="1175" height="871" alt="utilization_2" src="https://github.com/user-attachments/assets/98a82cc7-5b26-4329-8c1d-569e693935ab" />
-<img width="1276" height="872" alt="utilization_1" src="https://github.com/user-attachments/assets/d96e27ec-a73d-400d-9d02-f7e7d688d0e6" />
+
 # Digital Safe (Verilog FPGA Project)
 
 ## Description
@@ -46,6 +45,11 @@ Four switch to input a number up to 9, one relock/reset button, one enter button
 [display_4digiti_tb](https://github.com/Joun-Mikhail/Digital_Safe_Verilog/blob/76d02d4a5872c8516e33f84956432781cfafeae6/Safe_password_week3/Safe_password_week3.srcs/sim_1/display_4digit_tb.v)
 
 <img width="1112" height="236" alt="display_4digit_tb" src="https://github.com/user-attachments/assets/29457af5-9e53-4854-bdbf-7f83193bdfea" />
+
+##Resources_Report
+
+<img width="1276" height="872" alt="utilization_1" src="https://github.com/user-attachments/assets/617ae29b-0889-40cf-bc96-54631b589614" />
+<img width="1175" height="871" alt="utilization_2" src="https://github.com/user-attachments/assets/bca2fdba-8cb4-46ac-9e84-eb50e91c84eb" />
 
 
 
