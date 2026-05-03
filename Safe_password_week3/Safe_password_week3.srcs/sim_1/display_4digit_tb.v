@@ -49,7 +49,7 @@ module tb_display_4digit;
         input [3:0] digit;
         begin
             // (digit0 → digit1 → digit2 → digit3)
-            i_data = {i_data[11:0], digit};  // nouveau digit en position 0
+            i_data = {i_data[11:0], digit};  // new digit in position 0
             // update the mask, by adding one more digit to show
             i_mask = {i_mask[2:0], 1'b1};
 
