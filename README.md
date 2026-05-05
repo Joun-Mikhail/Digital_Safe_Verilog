@@ -68,7 +68,7 @@ OUTPUTS
 
 <img width="1112" height="236" alt="display_4digit_tb" src="https://github.com/user-attachments/assets/29457af5-9e53-4854-bdbf-7f83193bdfea" />
 
-##Resources_Report
+## Resources_Report
 
 <img width="1276" height="872" alt="utilization_1" src="https://github.com/user-attachments/assets/617ae29b-0889-40cf-bc96-54631b589614" />
 <img width="1175" height="871" alt="utilization_2" src="https://github.com/user-attachments/assets/bca2fdba-8cb4-46ac-9e84-eb50e91c84eb" />
