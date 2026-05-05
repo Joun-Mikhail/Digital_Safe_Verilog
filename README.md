@@ -40,7 +40,9 @@ OUTPUTS
 
 ## Project poster
 
-[Poster A3 - Copy (1).pdf](https://github.com/user-attachments/files/27410918/Poster.A3.-.Copy.1.pdf)
+<img width="1074" height="761" alt="Capture d’écran 2026-05-05 194917" src="https://github.com/user-attachments/assets/aee75441-7c1b-4160-8957-fab52fcdd9c6" />
+
+[Digital Safe Poster.pdf](https://github.com/user-attachments/files/27410918/Poster.A3.-.Copy.1.pdf)
 
 
 ## Block diagram
