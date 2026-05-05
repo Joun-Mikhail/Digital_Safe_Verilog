@@ -44,6 +44,9 @@ OUTPUTS
 
 [Digital Safe Poster.pdf](https://github.com/user-attachments/files/27410918/Poster.A3.-.Copy.1.pdf)
 
+## Project video demonstration
+
+[![Watch the video demonstration](https://img.youtube.com/vi/UckSL7Y0rZ0/0.jpg)](https://www.youtube.com/watch?v=UckSL7Y0rZ0)
 
 ## Block diagram
 <img width="1920" height="1080" alt="Block_diagram_update" src="https://github.com/user-attachments/assets/881cf075-a41a-4580-9aa9-435092395ea5" />
