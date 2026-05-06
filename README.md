@@ -50,7 +50,7 @@ OUTPUTS
 
 ## Project video demonstration
 
-[![Watch the video demonstration] https://youtube.com/shorts/bVlGUpequck?feature=shared
+[![Watch the video demonstration](https://youtube.com/shorts/bVlGUpequck?feature=shared)]
 ## Block diagram
 <img width="1920" height="1080" alt="diagram safe" src="https://github.com/user-attachments/assets/be19ecf8-77a2-4bad-a6c7-4d52cc1d5493" />
 
