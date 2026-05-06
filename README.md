@@ -8,7 +8,7 @@ This project implements a digital safe using Verilog on FPGA.
 ## Features
 
 - Four digits pasword.
-- Visual communication of the safe & password status with the user.
+- Visual & audio communication of the safe & password status with the user.
 
 INPUTS
 
@@ -23,7 +23,11 @@ OUTPUTS
 - 4x7-Segments displays : Displays the LOCK/OPEN status.
 - 4x7-Segments displays : Displays the current digit input value and password completion of each digits.
 - 2xDebug LEDs : LED n°8 flag lock status of the safe, LED n°7 keep tracks of the error flag.
-- RGB LED : A user friendly way to indicate the OPEN/LOCK status to the user thanks to color code ( where GREEN : OPEN / RED : LOCK).
+- RGB LED : A user friendly way to indicate the OPEN/LOCK/Err status to the user thanks to color code ( where GREEN : OPEN / RED : LOCK / BLUE : Err).
+      OPEN : Digital safe is unlocked,
+      LOCK : Digital safe is locked,
+      Err : Wrong password input.
+- Relay : Emit a sound when changing state from OPEN to LOCK
 
 ## USER MANUAL
 
@@ -31,7 +35,7 @@ OUTPUTS
 2) Compsoe the first digit with the switchs
 3) Confirm the digit value input
 4) Repeat until the 4th digit
-5) When confirming the 4th digit the system should display the safe OPEN/CLOSE status.
+5) When confirming the 4th digit the system should display the safe OPEN/CLOSE/Err status.
 
 ## Author & Roles
 - John Heshmat [Password matching comparaison]
