@@ -62,7 +62,9 @@ module digital_safe_top (
 
     assign led[7]   = unlocked;
     assign led[6]   = error_flag;
-    assign led[5:0] = 6'b000000;
+    assign led[5]   = btnd;
+    assign led[4] = btnc;
+    assign led[3:0] = 4'b0000;
     assign rgb_g = unlocked;
     assign rgb_r = error_flag;
     assign rgb_b = 1'b0;
