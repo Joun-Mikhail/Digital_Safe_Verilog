@@ -49,7 +49,8 @@ OUTPUTS
 [![Watch the video demonstration](https://img.youtube.com/vi/UckSL7Y0rZ0/0.jpg)](https://www.youtube.com/watch?v=UckSL7Y0rZ0)
 
 ## Block diagram
-<img width="1920" height="1080" alt="Block Diagram" src="https://github.com/user-attachments/assets/056d3433-db07-4cfc-86f1-b3f20e6eb0aa" />
+<img width="1920" height="1080" alt="diagram safe" src="https://github.com/user-attachments/assets/be19ecf8-77a2-4bad-a6c7-4d52cc1d5493" />
+
 
 ### digital_safe_top_tb simulation
 [digital_safe_top_tb.v](https://github.com/Joun-Mikhail/Digital_Safe_Verilog/blob/81bc66416f0062f3d8d901966933a745b3e02f25/Safe_Password_week4/Safe_Password_week4.srcs/sim_1/digital_safe_top_tb.v) 
