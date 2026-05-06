@@ -50,8 +50,7 @@ OUTPUTS
 
 ## Project video demonstration
 
-[![Watch the video demonstration](<img width="584" height="932" alt="Screenshot 2026-05-06 161628" src="https://github.com/user-attachments/assets/a72b4323-ab6e-4e0c-ac4c-cb97c513fe47" />
-)](https://youtube.com/shorts/bVlGUpequck?feature=shared)
+[![Watch the video demonstration](https://img.youtube.com/vi/UckSL7Y0rZ0/0.jpg)](https://youtube.com/shorts/bVlGUpequck?feature=shared)
 
 ## Block diagram
 <img width="1920" height="1080" alt="diagram safe" src="https://github.com/user-attachments/assets/be19ecf8-77a2-4bad-a6c7-4d52cc1d5493" />
